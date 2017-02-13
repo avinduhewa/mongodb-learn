@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-learn",
+  "version": "1.0.0",
+  "description": "an application to try out mongodb queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinduhewa/mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinduhewa/mongodb/issues"
+  },
+  "homepage": "https://github.com/avinduhewa/mongodb#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22"
+  }
+}
